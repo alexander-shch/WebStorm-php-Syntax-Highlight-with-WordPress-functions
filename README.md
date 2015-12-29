@@ -14,7 +14,7 @@ And Have fun :)
 
 Error: Invalid File - file.jar contains no settings to import. Please make sure you have generated the file using 'File|Export Settings feature
 
-I you have this problem please refer to this steps
+If you have this problem please refer to this steps
 
 1. Export your own settings .jar file by going to File -> Export Settings... There is no need exporting all of the setting - Just the File Types - Uncheck all of the other options...
 2. Open the .jar file with WINRAR "Or any other compresing software" and go to the "filetypes" folder.
