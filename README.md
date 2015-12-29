@@ -10,7 +10,7 @@ It will import all the File Type PHP syntax Highlight for you WebStorm IDE
 And Have fun :)
 
 
-#Problems With importing the .jar file - no seetings
+#Problems With importing the .jar file - no settings
 
 Error: Invalid File - file.jar contains no settings to import. Please make sure you have generated the file using 'File|Export Settings feature
 
