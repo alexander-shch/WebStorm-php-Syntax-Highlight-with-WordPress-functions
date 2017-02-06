@@ -1,3 +1,5 @@
+# Backup your settings
+
 # WebStorm-Syntax-Highlight---PHP-WordPress
 
 Download syntax hightlight for webstorm - by alexander shcherbakov.jar File
