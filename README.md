@@ -1,4 +1,4 @@
-# Backup your settings
+# ****************** Backup your settings ******************
 
 # WebStorm-Syntax-Highlight---PHP-WordPress
 
